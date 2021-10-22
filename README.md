@@ -10,7 +10,7 @@ The [second assignment](https://github.com/rohullaa/Natural-Language-Processing/
 * Sequence labeling
 * Word embeddings
 
-The third assigment is about
+The third assigment (not finished yet) is about
 * A data-driven chatbot
 * Speech processing
 * Talking Elevator
